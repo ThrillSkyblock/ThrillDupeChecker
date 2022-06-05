@@ -18,5 +18,5 @@ This mod follows Hypixel's rules in our interpretation. Similar to most Skyblock
 
 ## Config
 O - Opens Dupe Checker's config.
-[ - Quick toggle dupe checker.
+\ - Quick toggle dupe checker.
 You can change these settings in the controls menu.
