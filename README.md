@@ -1,4 +1,4 @@
-#Thrill Dupe Checker
+###Thrill Dupe Checker
 Checks for duped items in Hypixel Skyblock
 
 Download
